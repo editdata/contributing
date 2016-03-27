@@ -2,7 +2,7 @@
 
 Contributions to the EditData project are welcome!
 
-In addition to improving the project by refactoring code and and implementing relevant features, this project welcomes the following types of contributions:
+In addition to improving the project by refactoring code and implementing relevant features, this project welcomes the following types of contributions:
 
 - **Ideas**: participate in an issue thread or start your own to have your voice heard.
 - **Writing**: contribute your expertise in an area by helping expand the included content.
